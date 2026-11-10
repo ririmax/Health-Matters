@@ -8,7 +8,7 @@
 
 > **"Read. Interact. Learn. Test Your Knowledge."**
 
-HEALTH MATTERS is a modern, responsive, educational digital health portal built to empower students, families, and everyday people with clear, evidence-based health awareness. It breaks down complex medical concepts surrounding common conditions—such as Blood Pressure, Diabetes, and Dehydration—into accessible language, visual infographics, interactive self-assessment tools, and engaging knowledge quizzes.
+HEALTH MATTERS is a modern, responsive, educational digital health portal built to empower students, families, and everyday people with clear, evidence-based health awareness. It breaks down complex medical concepts surrounding common conditions such as Blood Pressure, Diabetes, and Dehydration into accessible language, visual infographics, interactive self-assessment tools, and engaging knowledge quizzes.
 
 ---
 
